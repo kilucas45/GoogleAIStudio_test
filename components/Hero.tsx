@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
       <div className="z-10 text-center px-4 max-w-4xl transition-transform duration-500 ease-out"
            style={{ transform: `translate(${mousePos.x * 10}px, ${mousePos.y * 10}px)` }}>
         <div className="inline-block px-3 py-1 bg-slate-900 text-white text-[9px] font-bold tracking-[0.3em] uppercase mb-10 rounded-sm shadow-sm">
-          Volume 24 • No. 12
+          Volume 25 • No. 12
         </div>
         
         <h1 className="text-6xl md:text-9xl font-serif text-slate-900 mb-10 leading-[0.9] tracking-tighter">
