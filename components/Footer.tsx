@@ -25,11 +25,11 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="col-span-1 md:text-right">
-          <h4 className="text-[10px] font-bold uppercase tracking-widest text-slate-900 mb-6">Archives</h4>
+          <h4 className="text-[10px] font-bold uppercase tracking-widest text-slate-900 mb-6">Stacks</h4>
           <div className="flex justify-start md:justify-end space-x-6">
-            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">IG</a>
-            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">TW</a>
-            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">LI</a>
+            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">Google AI Studio</a>
+            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">GitHub</a>
+            <a href="#" className="text-slate-400 hover:text-slate-900 transition-colors text-xs font-bold uppercase tracking-tighter">React</a>
           </div>
           <div className="mt-8">
             <p className="text-[10px] font-medium tracking-tighter">
