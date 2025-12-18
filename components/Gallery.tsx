@@ -10,8 +10,7 @@ const archiveData = [
   {
     id: "CAT_REF_102",
     breed: "Russian Blue",
-    url: "https://images.unsplash.com/photo-1599582292739-d37615cc7882?auto=format&fit=crop&q=80&w=800&h=800
-",
+    url: "https://images.unsplash.com/photo-1599582292739-d37615cc7882?auto=format&fit=crop&q=80&w=800&h=800",
   },
   {
     id: "CAT_REF_103",
