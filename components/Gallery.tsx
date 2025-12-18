@@ -10,17 +10,18 @@ const archiveData = [
   {
     id: "CAT_REF_102",
     breed: "Russian Blue",
-    url: "https://source.unsplash.com/BeVoKzZji-o/800x800",
+    url: "https://images.unsplash.com/photo-1599582292739-d37615cc7882?auto=format&fit=crop&q=80&w=800&h=800
+",
   },
   {
     id: "CAT_REF_103",
     breed: "Siamese",
-    url: "https://images.unsplash.com/photo-1513245543132-31f507417b26?auto=format&fit=crop&q=80&w=800&h=800",
+    url: "https://images.unsplash.com/photo-1568152950566-c1bf43f4ab28?auto=format&fit=crop&q=80&w=800&h=800",
   },
   {
     id: "CAT_REF_104",
     breed: "Persian",
-    url: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=800&h=800",
+    url: "https://images.unsplash.com/photo-1536590158209-e9d615d525e4?auto=format&fit=crop&q=80&w=800&h=800",
   },
   {
     id: "CAT_REF_105",
