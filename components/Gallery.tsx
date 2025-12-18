@@ -10,7 +10,7 @@ const archiveData = [
   {
     id: "CAT_REF_102",
     breed: "Russian Blue",
-    url: "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?auto=format&fit=crop&q=80&w=800&h=800",
+    url: "https://source.unsplash.com/BeVoKzZji-o/800x800",
   },
   {
     id: "CAT_REF_103",
@@ -29,8 +29,8 @@ const archiveData = [
   },
   {
     id: "CAT_REF_106",
-    breed: "Felis Catus (Calico)",
-    url: "https://images.unsplash.com/photo-1573865668131-97305988582e?auto=format&fit=crop&q=80&w=800&h=800",
+    breed: "Korean Short Hair",
+    url: "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&q=80&w=800&h=800",
   },
 ];
 
