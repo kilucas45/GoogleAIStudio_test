@@ -33,7 +33,8 @@ const Footer: React.FC = () => {
           </div>
           <div className="mt-8">
             <p className="text-[10px] font-medium tracking-tighter">
-              © 2024 Institute of Feline Studies.
+              한림대학교 정보과학대학 소프트웨어학부 빅데이터전공 
+              20236604 김동건
             </p>
           </div>
         </div>
